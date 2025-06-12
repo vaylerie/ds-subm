@@ -54,6 +54,7 @@ Sistem machine learning ini dikembangkan menggunakan Streamlit dan dirancang unt
 Sistem ini menggunakan algoritma XGBoost, yaitu model gradient boosting yang sangat efektif dalam menangani data tabular dan cocok untuk tugas klasifikasi seperti prediksi dropout.
 
 Link akses streamlit:
+https://jaya-jaya-institut-vb.streamlit.app/
 
 ```
 # Pastikan seluruh dependencies telah terinstall (Lihat bagian setup environment)
